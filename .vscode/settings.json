@@ -1,0 +1,11 @@
+{
+    "json.schemas": [{
+        "fileMatch": [
+            "/tooling/schemas/*.json"
+        ],
+        "url": "http://json-schema.org/draft-07/schema"
+    }],
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false
+    
+}

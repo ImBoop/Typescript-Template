@@ -1,0 +1,16 @@
+{
+  "name": "isaac-typescript-template",
+  "version": "0.0.1",
+  "description": "Base template for Typescript projects",
+  "main": "build/boot.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "tsc && node build/boot.js"
+  },
+  "author": "Isaac",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.9.0",
+    "typescript": "^3.8.3"
+  }
+}

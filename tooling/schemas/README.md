@@ -1,0 +1,1 @@
+Any JSON file you put in here will be read as [JSONSchema](https://json-schema.org/) files
